@@ -27,8 +27,8 @@ Sou apaixonada por tecnologia e estou em constante evolução por meio de projet
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-/>
+
+
 <img 
     align="left" 
     alt="Laravel" 
