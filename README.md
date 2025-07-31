@@ -27,13 +27,7 @@ Sou apaixonada por tecnologia e estou em constante evolução por meio de projet
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_%2528programming_language%2529&psig=AOvVaw0mfFDEkuajDp50BR1qAHvZ&ust=1754048276517000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjMoJWB544DFQAAAAAdAAAAABAE)" 
+ 
 />
 <img 
     align="left" 
