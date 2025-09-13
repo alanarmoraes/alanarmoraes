@@ -31,9 +31,9 @@ Sou apaixonada por tecnologia e estou em constante evolução por meio de projet
 
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faiit-sa.co.za%2Fproduct%2Fprogramming-with-python%2F&psig=AOvVaw2dEwiFsVBNfqs_qVXpcfRX&ust=1757864903205000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCn06eL1o8DFQAAAAAdAAAAABAE" 
 />
