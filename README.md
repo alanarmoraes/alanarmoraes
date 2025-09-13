@@ -35,6 +35,6 @@ Sou apaixonada por tecnologia e estou em constante evolução por meio de projet
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/fedd1096-2007-4db8-af3d-832107de3230"> 
-"
+    src="https://github.com/user-attachments/assets/fedd1096-2007-4db8-af3d-832107de3230">
+
 />
